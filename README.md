@@ -1,4 +1,4 @@
-# Benchmark
+# Non-parametric Optimal Benchmark
 R script for simulating the operating characteristics of the nonparametric optimal benchmark in adaptive dose-finding studies. 
 
 # Reference
